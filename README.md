@@ -9,4 +9,4 @@ the gui isn't bound by default so bind it with +bind clickgui rshift (+ is the d
 every client bouta get a recode
 
 
-- Made futureclient compatible as well as decreased jar file size to 7mb using Gopro336's initial source.
+- Made futureclient compatible as well as decreased jar file size to 7mb using Gopro336's initial source. Thanks to Gavin for his fix to the compatibility with Future 2.12.
