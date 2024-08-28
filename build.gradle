@@ -60,7 +60,6 @@ def getCheckedOutGitCommitHash() {
 // build constants
 
 boolean INCREMENT = false // increments version
-// NO APPEND THAT YOURSELF BITCH
 boolean UNIQUE = false // adds a random 8-char string to the build number
 // instead of incrementing the last number
 // this is so that we don't get absurdly large numbers
